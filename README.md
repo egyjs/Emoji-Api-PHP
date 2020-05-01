@@ -18,7 +18,12 @@ to run it you will need php of course so you can you Xampp or you can just run t
 ```bash
 php -S localhost:7070
 ``` 
+----
+### donate❤!
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/el3zahaby/10) 
+[![Follow me on instagram egy.js](https://img.shields.io/badge/Follow-Instagram-%23C13584)](http://instagram.com/egy.js)
 
+----
 
 ## Usage
 to use this api you must host it <small>local or on host</small>
@@ -38,5 +43,4 @@ to remove cache you can just do this command line:
 ```bash
 php cmd/cache.clear.php
 ``` 
-# donate❤!
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/el3zahaby)
+
