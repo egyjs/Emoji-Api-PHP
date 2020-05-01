@@ -1,6 +1,6 @@
 <?php
 if (isset($_GET['q'])) {
-    $cachefile = 'pages/'.basename($_GET['q']).'.cache'; // e.g. cache/index.php.cache
+    $cachefile = 'pages/'.md5(basename($_GET['q'])).'.cache'; // e.g. cache/index.php.cache
     $cachetime = 7889232 ; // 3 month in sconces
     if(file_exists($cachefile) && time()-$cachetime <= filemtime($cachefile)){
         header('Content-Type: application/json');
