@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ivopetkov/html5-dom-document-php": "^0.5.8",
+        "kozz/emoji-regex": "^1.0"
+    }
+}
