@@ -44,4 +44,7 @@ to remove cache you can just do this command line:
 ```bash
 php cmd/cache.clear.php
 ``` 
+### resources
+* https://emojipedia.org/
+
 
