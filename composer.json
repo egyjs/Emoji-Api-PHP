@@ -1,6 +1,6 @@
 {
     "config": {
-        "vendor-dir": "emoji/vendor/"
+        "vendor-dir": "src/vendor/"
     },
     "require": {
         "ivopetkov/html5-dom-document-php": "^0.5.8",
