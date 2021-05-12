@@ -22,7 +22,7 @@ php -S localhost:7070
 ----
 ### donate❤!
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/el3zahaby/10) 
-[![Follow me on instagram egy.js](https://img.shields.io/badge/Follow-Instagram-%23C13584)](http://instagram.com/egy.js)
+[![Follow me on instagram egy.js](https://img.shields.io/badge/Follow-Instagram-%23C13584)](http://instagram.com/egyjs)
 
 ----
 
